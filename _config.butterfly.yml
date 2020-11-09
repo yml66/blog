@@ -871,12 +871,16 @@ fragment_cache: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    # - <link rel="stylesheet" href="/xxx.css"> head 是用来引入 css 
+    #背景+鼠标样式
+     - <link rel="stylesheet" href="/css/background.css">    
     
   bottom: 
-    # - <script src="xxxx"></script>
+    # - <script src="xxxx"></script>  bottom 是用来引入 js 的
     #音乐播放
     - <div class="aplayer no-destroy" data-id="984492368" data-server="tencent" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="true" muted></div>
+    #背景+鼠标
+    - <link rel="stylesheet" href="/css/background.css">
 
     #看板娘
     - <link rel="stylesheet" href="/live2d/css/live2d.css" /><div id="landlord"> 
@@ -888,8 +892,11 @@ inject:
       <script data-pjax type="text/javascript" src="/live2d/js/live2d.js"></script>
       <script data-pjax type="text/javascript" src="/live2d/js/message.js"></script>
       <script type="text/javascript"> loadlive2d("live2d", "/live2d/model/kesyoban/kesyoban.model.json"); </script>
-
-      https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/mouse_snow.min.js
+    
+    #小鱼
+    #- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+     # <div id="jsi-flying-fish-container"></div>
+      #<script src='https://blog-static.cnblogs.com/files/elkyo/fish.js'></script> 
 
 
     
