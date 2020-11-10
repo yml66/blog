@@ -500,10 +500,10 @@ tag_ui: # 留空或 index
 # Website Background (设置网站背景)
 # can set it to color or image (可设置图片 或者 颜色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: https://cdn.jsdelivr.net/gh/yml66/blog-img/img/0.jpg
+background: "rgba(27, 31, 35, .100)" #https://cdn.jsdelivr.net/gh/yml66/blog-img/img/0.jpg
 
 # Footer Background
-footer_bg: https://cdn.jsdelivr.net/gh/yml66/blog-img/img/6.jpg
+footer_bg: true #https://cdn.jsdelivr.net/gh/yml66/blog-img/img/6.jpg
 
 # the position of bottom right button/default unit: px (右下角按钮距离底部的距离/默认单位为px)
 rightside-bottom:
@@ -897,7 +897,7 @@ inject:
     #- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
      # <div id="jsi-flying-fish-container"></div>
       #<script src='https://blog-static.cnblogs.com/files/elkyo/fish.js'></script> 
-
+    - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
 
     
     
