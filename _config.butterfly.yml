@@ -658,7 +658,7 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:   #公告栏
     enable: true
-    content: hi，恭喜你发现新大陆！!(o゜▽゜)o☆[BINGO!]
+    content: hi，恭喜你发现新大陆！! <br>   (o゜▽゜)o☆[BINGO!]
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -894,6 +894,7 @@ inject:
       <script data-pjax type="text/javascript" src="/live2d/js/live2d.js"></script>
       <script data-pjax type="text/javascript" src="/live2d/js/message.js"></script>
       <script type="text/javascript"> loadlive2d("live2d", "/live2d/model/kesyoban/kesyoban.model.json"); </script>
+
     
     #小鱼
     - <script data-pjax src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
