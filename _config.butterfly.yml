@@ -896,7 +896,7 @@ inject:
       <script type="text/javascript"> loadlive2d("live2d", "/live2d/model/kesyoban/kesyoban.model.json"); </script>
     
     #小鱼
-    - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
+    - <script data-pjax src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
 
     
     
