@@ -82,7 +82,7 @@ favicon: https://cdn.jsdelivr.net/gh/yml66/blog-img/img/1.png
 
 # Avatar (头像)
 avatar: 
-  img: /tp/avatar.jpg
+  img: https://cdn.jsdelivr.net/gh/yml66/blog-img/img/avatar.jpg
   effect: true # 头像会一直转圈
 
 # The banner image of home page 主页的横幅图像
