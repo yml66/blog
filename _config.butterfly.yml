@@ -874,7 +874,7 @@ fragment_cache: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css"> head 是用来引入 css 
-    #背景+鼠标样式
+    #自定义的css合集  背景+鼠标样式+透明度+ 
      - <link rel="stylesheet" href="/css/background.css">    
     
   bottom: 
