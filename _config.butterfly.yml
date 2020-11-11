@@ -896,9 +896,6 @@ inject:
       <script type="text/javascript"> loadlive2d("live2d", "/live2d/model/kesyoban/kesyoban.model.json"); </script>
     
     #小鱼
-    #- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-     # <div id="jsi-flying-fish-container"></div>
-      #<script src='https://blog-static.cnblogs.com/files/elkyo/fish.js'></script> 
     - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
 
     
