@@ -884,6 +884,9 @@ inject:
     #背景+鼠标
     - <link rel="stylesheet" href="/css/background.css">
 
+    #鼠标划过
+    - '<script data-pjax src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/mouse_snow.min.js"></script>'
+
     #看板娘
     - '<script data-pjax src="https://cdn.jsdelivr.net/gh/yml66/live2d/js/index.js"></script>'
     
