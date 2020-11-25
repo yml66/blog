@@ -89,28 +89,28 @@ avatar:
 index_img: "rgba(0,0,0,0)" #https://cdn.jsdelivr.net/gh/yml66/blog-img/img/0.jpg
 
 # If the banner of page not setting, it will show the top_img 如果页面横幅未设置，则会显示top_img
-default_top_img:
+default_top_img: https://cdn.jsdelivr.net/gh/yml66/blog-img/img/top.jpg
 
 # The banner image of archive page 存档页面的横幅图像
-archive_img:
+archive_img: https://cdn.jsdelivr.net/gh/yml66/blog-img@master/uPic/top3.png
 
 # If the banner of tag page not setting, it will show the top_img  如果未设置标签页的横幅，则会显示top_img
 # note: tag page, not tags page (子标签页的top_img)
-tag_img:
+tag_img: https://cdn.jsdelivr.net/gh/yml66/blog-img@master/uPic/top2.png
 
 # The banner image of tag page 标签页的横幅图像
 # format:
 #  - tag name: xxxxx
-tag_per_img:
+tag_per_img: https://cdn.jsdelivr.net/gh/yml66/blog-img@master/uPic/top1.png
 
 # If the banner of category page not setting, it will show the top_img 如果未设置类别页面的横幅，则会显示top_img
 # note: category page, not categories page (子分类页面的 top_img)
-category_img:
+category_img: https://cdn.jsdelivr.net/gh/yml66/blog-img@master/uPic/top.png
 
 # The banner image of category page 类别页面的横幅图像
 # format:
 #  - category name: xxxxx
-category_per_img:
+category_per_img: https://cdn.jsdelivr.net/gh/yml66/blog-img@master/uPic/top.png
 
 cover:
   # display the cover or not (是否显示文章封面)
