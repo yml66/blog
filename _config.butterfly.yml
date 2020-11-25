@@ -442,11 +442,11 @@ google_adsense:
 
 # Google Webmaster tools verification setting Google网站管理员工具验证设置
 # See: https://www.google.com/webmasters/
-google_site_verification:
+google_site_verification: 9KymJ2gsq55kef2zZvVNrXI4r7YPS6KVFrbbEq3Yw8Y
 
 # Bing Webmaster tools verification setting Bing网站管理员工具验证设置
 # See: https://www.bing.com/webmaster/
-bing_site_verification:
+bing_site_verification: code-f3aYyt0XlZ
 
 # Baidu Webmaster tools verification setting
 # See: https://ziyuan.baidu.com/site/
